@@ -1,4 +1,4 @@
-# 🛡️ Olá, eu sou o pwmoura
+# 🛡️ pwmoura
 
 Entusiasta de tecnologia dedicado ao estudo da **soberania digital** e à exploração de ferramentas que promovam a privacidade e a segurança do indivíduo no ambiente conectado.
 
